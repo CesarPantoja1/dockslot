@@ -1,0 +1,2 @@
+# dockslot
+KOSMO Generated App
